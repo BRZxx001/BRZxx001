@@ -9,5 +9,5 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BRZxx001&show_icons=true&theme=radical&hide_border=true" alt="Brahmjot's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BRZxx001&show_icons=true&theme=radical&hide_border=false" alt="Brahmjot's GitHub stats" height="180"/>
 </p>
