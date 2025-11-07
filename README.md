@@ -2,7 +2,7 @@
 
 🎓 Pursuing B.Tech in Computer Science & Engineering at GGSIPU  
 💻 Skilled in C, C++, and Python  
-🌱 Currently learning Data Science and exploring Web Development
+🌱 Currently learning Data Science and exploring Web Development  
 🚀 Passionate about coding, building projects, and continuous learning  
 ✨ Outside tech, I’m into music and sketching  
 
